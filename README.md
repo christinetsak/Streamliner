@@ -27,7 +27,7 @@ Currently Streamliner supports two kinds of flows:
 * Streamflow - Unlimited repetitions, runs until cancellation is requested
 * Workflow - Fixed iterations
 
-# What kind of blocks does Streamliner support?
+# What kind of blocks does Streamliner support??
 
 Streamliner supports a number of standard blocks. The blocks supported are listed below:
 
